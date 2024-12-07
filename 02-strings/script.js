@@ -9,7 +9,7 @@ console.log(nameFile);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 let numberField = 23;
-let textFielt = "text";
+let textField = "text";
 let boolField = true;
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
